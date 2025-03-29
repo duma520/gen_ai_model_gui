@@ -2,6 +2,9 @@
 
 # AI模型生成工具使用说明书
 
+![image](https://github.com/user-attachments/assets/d70f5a83-dabd-4733-822e-fcb836ae665d)
+
+
 ## 1. 产品概述
 
 ### 1.1 什么是AI模型生成工具
