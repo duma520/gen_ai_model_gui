@@ -1,0 +1,1 @@
+pyinstaller --windowed gen_ai_model_gui.py
