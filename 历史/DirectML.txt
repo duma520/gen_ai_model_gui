@@ -1,0 +1,5 @@
+全自动训练 AI Optimizer ONNX 模型的 Python 程序 (OpenCL 方案)
+
+全自动训练 AI Optimizer ONNX 模型的 Python 程序 (DirectML 方案)
+
+全自动训练 AI Optimizer ONNX 模型的 Python 程序 (CPU 方案)
